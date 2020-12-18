@@ -15,7 +15,7 @@ namespace SampleWebMithuApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Madhumithra Subramanian page!!!";
+            ViewBag.Message = "Madhumithra Subramanian page!!!.updated";
 
             return View();
         }
